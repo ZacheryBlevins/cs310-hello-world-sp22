@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Zachery Blevins
  */
 
 public class Class2 {
